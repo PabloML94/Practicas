@@ -1,2 +1,0 @@
-# Practicas
-G1
